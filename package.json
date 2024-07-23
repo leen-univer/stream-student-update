@@ -2,6 +2,7 @@
   "name": "searchyardproject",
   "version": "0.1.0",
   "private": true,
+  "description": "A brief description of your project.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
